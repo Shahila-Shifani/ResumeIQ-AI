@@ -41,7 +41,16 @@ Open the local URL printed in the terminal.
 PyMuPDF reads selectable text from each PDF page. Regular expressions look for terms in `skills.py`. The program compares two sets of detected skills. The percentage is matching job-description skills divided by all detected job-description skills.
 
 ## 9. Screenshots
-The `screenshots/` folder contains instructions. Capture your own screenshot after running the app; no sample screenshot is presented as a real app capture.
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/ResumeIQ-AI.png)
+
+### Resume Upload
+![Resume Upload](screenshots/ResumeIQ-AI-a.png)
+
+### Analysis Result
+![Analysis Result](screenshots/ResumeIQ-AI-b.png)
 
 ## 10. What I learned
 PDF text extraction, functions, lists and sets, regular expressions, basic text matching, input validation and Streamlit.
